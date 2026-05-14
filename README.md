@@ -21,7 +21,7 @@ The language is engineered for acquired comprehension, sociolinguistic realism, 
 - `ANTHEM.md` — Full national anthem text with register breakdowns and translation
 - `LORE.md` — Complete alternate history narrative (1918–2026)
 - `EXAMPLES.md` — Register demonstration sequences & contextual usage
-- `ASSETS/` — Flag, alphabet charts, maps, portraits, and visual documentation
+- `ASSETS/` — In the future, media will go here, such as flag, alphabet charts, maps, portraits, visual documentations and more
 - `STATUS.md` — Project metadata, credits, usage guidelines, and preservation notes
 
 ## 📜 How to Use
