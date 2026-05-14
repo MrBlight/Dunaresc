@@ -1,12 +1,11 @@
-# Dunăreasc · Danubian — The Language of the Middle River
+# Dunăreasc · Danubian - The Language of the Middle River
 
 > *«Raul cel vešnic, lumina ši viaca.»*  
 > The eternal river, the light and the life.  
 > Where the Danube meets memory, and four civilizations share one tongue.  
 > Romanian soul. German architecture. Croatian blood. Latin memory.
 
-**Created by:** `MrBlight`  
-**With linguistic & worldbuilding collaboration from:** `NaniIsNano`  
+**Created by:** `MrBlight` and `NaniIsNano`  
 **Project Type:** Constructed Contact Language + Alternate History Lore  
 **Status:** Active creative project. Not intended for official, governmental, or institutional use.
 
@@ -31,7 +30,7 @@ This repository contains a fully documented conlang and its fictional historical
 - Creative translation exercises & fan expansion
 - Archival preservation of original design intent
 
-All content is attributed to `MrBlight` with collaborative development by `NaniIsNano`. No content has been summarized, cut, or altered from the original design documents.
+All content is attributed to `MrBlight` and `NaniIsNano`.
 
 > *«Un alfabet, doua surse, zero contradiccii.»*  
 > One alphabet, two sources, zero contradictions. — The reform slogan of the Dunăreasc Academy
