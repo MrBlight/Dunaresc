@@ -7,8 +7,6 @@ The Eternal River — The national anthem of the Dunareasc people, sung at all o
 ### 🎖️ Imnul Național — Raul cel Vešnic
 [Download MP3](https://raw.githubusercontent.com/MrBlight/Dunaresc/main/Raul%20cel%20Ve%C5%A1nic.mp3)
 
-<p><em>Imnul Național</em></p>
-
 ### Strofa I · Verse One
 `Noi am pornit din šuma ši din piatra,`  
 `Din Werk ši camp, din Haus ši rau hladna,`  
