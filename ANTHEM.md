@@ -5,7 +5,10 @@
 The Eternal River — The national anthem of the Dunareasc people, sung at all official ceremonies. Written in a blend of Standard and High registers, with the Refrain deliberately in Popularu so every soul can shout it. The text memorializes the great campaigns of the legendary Dunareasc confederation — the wars of unification along the Middle Danube.
 
 ### 🎖️ Raul cel Vešnic
-**[Anthem (MP3)](https://github.com/user-attachments/files/27786689/download.mp3)**
+<audio controls>
+  <source src="https://github.com/user-attachments/files/27786689/download.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
 
 
 Imnul Nacional
